@@ -4,12 +4,16 @@
  * @Author: BurNing
  * @Date: 2021-03-12 10:09:39
  * @LastEditors: BurNing
- * @LastEditTime: 2021-03-12 10:17:39
+ * @LastEditTime: 2021-03-12 15:35:47
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+/* import App from './Effect-hook' */
+/* import App from './context/create_context'; */
+/* import App from './context/context_provider' */
+/* import App from './refs/refs_函数组件获取DOM' */
+import App from './refs/refs_函数组件通过ref保存数据'
 
 ReactDOM.render(
     <App />,
